@@ -4,6 +4,7 @@ frontend:
     scripts:
         build: npm run build
         deploy: npm install
-name: Balul-Bobocilor-ETTI
+    subdomain: Balul-Bobocilor-ETTI2
+name: Balul-Bobocilor-ETTI2
 region: us-east-1
 yamlVersion: 2
